@@ -1,0 +1,7 @@
+﻿projects,description,tools / skills,sources,difficulty,completion status
+ai prompt labs,"an application used to host ai art competitions for events / parties 🤖 ","google's firestore, prodia, python, streamlit",https://github.com/crafty-arl/AI-Art-Prompt-Labs-v3,intermediate,Done
+txt2logo,an account management application used to generate DALLE-3 Logos for your brand 🧑🏿‍🎨,"google's firestore, openai, python, streamlit, twillio",docs: https://github.com/crafty-arl/Txt2Logo / hosted: http://31.220.107.113:8501/,intermediate,Done
+visualizing etherscan transactions,"an tool for you to view the , transaction volume over time , and view relationship mapping of transaction on the blockchain 🖥️","etherscan, neo4j, python, streamlit",https://github.com/crafty-arl/visualize-etherscan-transactions/tree/main,intermediate,Done
+crafty tales,an chatbot to learn about the amazing crafty+ storytelling card game 🃏,"openai, python, streamlit",https://github.com/crafty-arl/CraftyTales/tree/master,beginner,Done
+no-code creatives,a database of no-code tools curated specifically for creatives,"elementor, php, sql, unlock, wordpress, wpcode",local dev (currently),advanced,In progress
+NFT Metric Tracking Tool,a tool to monitor the growth of your NFT,"etherscan, polyscan, prismo, python, segment, streamlit",N/A,,Not started
